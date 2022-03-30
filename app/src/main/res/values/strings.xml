@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MarketMVVMApp</string>
+    <string name="market_app">Market App</string>
 </resources>
